@@ -1,0 +1,15 @@
+{
+    "name": "gaufrette/phpseclib-sftp-adapter",
+    "description": "PhpseclibSftp adapter for Gaufrette",
+    "type": "metapackage",
+    "require": {
+        "knplabs/gaufrette": "^0.3",
+        "phpseclib/phpseclib": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "KnpLabs",
+            "email": "hello@knplabs.com"
+        }
+    ]
+}
