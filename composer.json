@@ -4,7 +4,7 @@
     "type": "metapackage",
     "require": {
         "knplabs/gaufrette": "~0.3",
-        "phpseclib/phpseclib": "^2.0"
+        "phpseclib/phpseclib": "^2.0|^3.0.34"
     },
     "authors": [
         {
